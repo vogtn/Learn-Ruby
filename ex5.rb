@@ -7,3 +7,6 @@ my_weight = 180
 puts "Lets talk about #{my_name}"
 
 puts "if I add my height #{my_height} and my weight #{my_weight} I get #{my_height + my_weight}"
+
+puts "my height in centimeters is #{my_height * 2.54}"
+
